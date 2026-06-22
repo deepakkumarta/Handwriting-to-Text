@@ -1,5 +1,6 @@
 Extra Points - Important
 1.	Microsoft will create a profile of Hand Writing models of each and every person who subscribes to the service.
-2.	The service is a monthly paid service and the AI improvement is done when they use months after months.
-3.	Microsoft uses AI to check the word in the dictionary if demanded to give 100% accuracy of the word written by the user.
-4.  You can even correct the sentence using AI, only if demanded by the user.
+2.	The service is a monthly paid service and the AI improvement (or some simple software improvement) is done when they use months after months.
+3.	Microsoft checks the word in the dictionary if demanded to give 100% accuracy of the word written by the user.
+4.  You can even correct the sentence using Grammarly, only if demanded by the user.
+5.  We don't need AI unnecessarily, to do cost cutting.
